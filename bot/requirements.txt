@@ -1,4 +1,4 @@
-torch~=2.0.0
+torch~=2.2.0
 numpy~=1.23.5
 tqdm~=4.65.0
 requests~=2.28.2
